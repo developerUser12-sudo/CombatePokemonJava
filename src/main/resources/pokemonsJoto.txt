@@ -1,0 +1,4 @@
+nombre=Chikorita,Typhlosion,Totodile
+vida=250,380,200
+ataques=Puño agua,Puño hielo,Placaje,Burbuja/Cola de Hierro,Colisión,Cola de Hierro,Carga/Placaje,Pistola Agua,Mordisco,Corte
+danoAtaque=46,84,38,93/61,47,26,74/37,55,50,45

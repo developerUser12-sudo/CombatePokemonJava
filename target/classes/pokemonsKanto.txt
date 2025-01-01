@@ -1,0 +1,4 @@
+nombre=Charizard,Squirtle,Bulbasaur
+vida=400,230,190
+ataques=Puño agua,Puño hielo,Placaje,Burbuja/Cola de Hierro,Colisión,Cola de Hierro,Carga/Látigo Cepa,Rizo,Placaje,Tóxico
+danoAtaque=46,84,38,93/61,47,26,74/33,65,38,29
